@@ -5,7 +5,7 @@ For the Final Project in Microcontroller Systems, Jack and I attempted to create
 ## The Final Design
 <img src="IMG_9239.jpg" alt="Final Angry Birds Design" width="600" height="400">
 
-
+## Getting Started
 ## Hardware List
 The required components for this project include:
 -  An Arduino
@@ -16,5 +16,12 @@ The required components for this project include:
 -  A Battery Pack (for the DC motor)
 -  A Button (for trigger actuation)
 
+### Software List
+The required components for this project include:
+-  Arduino IDE (only to make changes and upload the code)
+-  From the Library Manager on IDE:
+   -  'Servo.h'
+   -  'Adafruit_TSC2007.h'
 
-## Assembly and Usage Instructions
+### Assembly and Usage Instructions
+

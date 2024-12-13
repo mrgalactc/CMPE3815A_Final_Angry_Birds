@@ -1,4 +1,4 @@
-# Microcontrollers Final Project
+# UVM Microcontroller Systems Final Project
 For the Final Project in Microcontroller Systems, Jack and I attempted to create real-life Angry Birds. This game involved launching a bird (a projectile) at objects (the pigs) using a slingshot (a Nerf blaster). The game was controlled using an Arduino, servos, a stepper motor, and a touchpad. The functionality, assembly, and code are available on this page.
 
 

@@ -25,4 +25,9 @@ The required components for this project include:
    -  'Adafruit_TSC2007.h'
 
 ### Usage Instructions
-
+1. Download the .ino file from this repository
+2. Connect the components as seen in the diagram below
+3. Ensure the required libraries are installed on your device
+4. Open this file via Arduino IDE
+5. Run the downloaded file
+6. Use the touchscreen to now command your sentry!

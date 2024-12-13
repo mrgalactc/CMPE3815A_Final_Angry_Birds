@@ -1,4 +1,4 @@
-#CMPE3815A_Final_Project:_Angry_Birds
+#CMPE3815A_Final_Project_Angry_Birds
 
 Final Project for Microcontroller Systems
 

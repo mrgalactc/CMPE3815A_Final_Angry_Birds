@@ -32,3 +32,6 @@ The required components for this project include:
 5. Run the downloaded file
 6. Use the touchscreen to now command your sentry!
 <img src="IMG_7956.jpg" alt="Top Down View of Circuit" width="600" height="400">
+
+### Thank you!
+

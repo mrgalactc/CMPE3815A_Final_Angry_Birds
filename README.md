@@ -1,9 +1,20 @@
 # Microcontrollers Final Project
-For the Final Project in Microcontroller Systems, Jack and I attempted to create a real-life Angry Birds, which consisted of launching a bird (a projectile) at objects (the pigs) using a slingshot (a nerf blaster). All of this was controlled using an Arduino, servos, a stepper motor, and a touchpad. The functionality, uses, and code is available on this page.
+For the Final Project in Microcontroller Systems, Jack and I attempted to create real-life Angry Birds. This game involved launching a bird (a projectile) at objects (the pigs) using a slingshot (a Nerf blaster). The game was controlled using an Arduino, servos, a stepper motor, and a touchpad. The functionality, assembly, and code are available on this page.
+
 
 ## The Final Design
-<img src="IMG_9239.jpg" alt="Final Angry Birds Design" width="400" height="300">
+<img src="IMG_9239.jpg" alt="Final Angry Birds Design" width="600" height="400">
 
-### Hardware List
 
-#### Assembly and Usage Instructions
+## Hardware List
+The required components for this project include:
+-An Arduino
+-An Adafruit TSC2007 Resistive Touch Screen and I2C Controller
+-2 Servos and a 3D-printed Gimbal
+-A Nerf Blaster
+-A DC Motor
+-A Battery Pack (for the DC motor)
+-A Button (for trigger actuation)
+
+
+## Assembly and Usage Instructions

@@ -8,13 +8,13 @@ For the Final Project in Microcontroller Systems, Jack and I attempted to create
 
 ## Hardware List
 The required components for this project include:
--An Arduino
--An Adafruit TSC2007 Resistive Touch Screen and I2C Controller
--2 Servos and a 3D-printed Gimbal
--A Nerf Blaster
--A DC Motor
--A Battery Pack (for the DC motor)
--A Button (for trigger actuation)
+-  An Arduino
+-  An Adafruit TSC2007 Resistive Touch Screen and I2C Controller
+-  Servos and a 3D-printed Gimbal
+-  A Nerf Blaster
+-  A DC Motor
+-  A Battery Pack (for the DC motor)
+-  A Button (for trigger actuation)
 
 
 ## Assembly and Usage Instructions

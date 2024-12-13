@@ -6,7 +6,7 @@ For the Final Project in Microcontroller Systems, Jack and I attempted to create
 <img src="IMG_9239.jpg" alt="Final Angry Birds Design" width="600" height="400">
 
 ## Getting Started
-## Hardware List
+### Hardware List
 The required components for this project include:
 -  An Arduino
 -  An Adafruit TSC2007 Resistive Touch Screen and I2C Controller

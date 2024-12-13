@@ -4,6 +4,7 @@ For the Final Project in Microcontroller Systems, Jack and I attempted to create
 
 ## The Final Design
 <img src="IMG_9239.jpg" alt="Final Angry Birds Design" width="600" height="400">
+The user can command the servo actuation via the touchpad by dragging their finger across the screen. The servos will only move while the finger is on the screen 
 
 ## Getting Started
 ### Hardware List
@@ -23,5 +24,5 @@ The required components for this project include:
    -  'Servo.h'
    -  'Adafruit_TSC2007.h'
 
-### Assembly and Usage Instructions
+### Usage Instructions
 
